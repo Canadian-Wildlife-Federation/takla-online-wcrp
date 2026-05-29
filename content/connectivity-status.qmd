@@ -19,7 +19,7 @@ Table 4: Connectivity goals for Pacific salmon and steelhead in the Driftwood Ri
 
 
 ## Structure Count {-}
-In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds, 72 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 1 is identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds, 72 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 1 is identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 66 require further field assessment. 
 
 
 ## Maps {-}
@@ -32,5 +32,5 @@ In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena an
 
 ## Habitat Accumulation Summary Table
 
-Table 5: Labelled structures in the Habitat Accumulation Curve (Figure 2), their rank, and upstream habitat for Pacific salmon and steelhead in Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.
+Table 5: Labelled structures in the Habitat Accumulation Curve (@fig-HAC), their rank, and upstream habitat for Pacific salmon and steelhead in Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.
 
