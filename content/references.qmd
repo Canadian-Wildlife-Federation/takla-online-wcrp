@@ -2,10 +2,17 @@
 # Acknowledgements and References {-}
 
 ## Recommended Citation 
-
+S. Sra, K. West, C. Williamson, M. McFarlane, H. Potsma, W. Millar, B. Rebellato, L. Bernardi, N. Mazany-Wright, F. Montgomery, J. Noseworthy, and N. W. R. Lapointe. 2026. Takla watershed connectivity restoration plan. Canadian Wildlife Federation. Ottawa, Ontario, Canada. 
 
 ## Acknowledgements {-}
-
+Canadian Wildlife Federation recognizes that the lands and waters that form the basis of this plan are the traditional unceded territory of the Takla Nation and the Carrier and Sekani peoples. Plan development was funded by the B.C. Salmon Restoration and Innovation Fund (BCSRIF). Members of the planning team (Appendix B) are passionate about the conservation and restoration of freshwater ecosystems and the species they support, and contributed feedback, guidance, and knowledge. Model outputs were further refined based on feedback provided by local knowledge holders beyond the planning team. Accessibility models were inspired by fish-passage prioritization approaches developed by British Columbia’s Fish Passage Technical Working Group.  
 
 
 ## References {-}
+Anonymous. 2025. Watershed profiles for Early Stuart Sockeye. Unpublished data provided to Canadian Wildlife Federation by T. Ridley, Fisheries and Oceans Canada. 
+
+Bradford, M.J. and D.C. Braun. 2021. Regional and local effects drive changes in spawning stream occupancy in a sockeye salmon metapopulation.  Canadian Journal of Fisheries and Aquatic Sciences. Volume 78, Number 8. 
+
+Levy Research Services Ltd. and Ecofor Consulting Inc. 2024. Wild salmon policy habitat & ecosystem status report for early Stuart sockeye salmon. Prepared for Fisheries and Oceans Canada, Kamloops, B.C.  
+
+Shas-Ti Environmental LP. 2026. Stuart/Takla fish passage assessments 2025 summary report – final. Prepared for Canadian Wildlife Federation by Shas-Ti Environmental LP, Fort St. James, B.C.  
