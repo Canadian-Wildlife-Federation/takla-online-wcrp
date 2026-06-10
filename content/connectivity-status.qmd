@@ -6,17 +6,44 @@ The planning team identified one Key Attributes (KA) and assigned associated ind
 
 To support a flexible prioritization framework to identify priority barriers in the watershed, two assumptions are made: 1) any unassessed (i.e., the passability status is unknown) or partial barriers are treated as complete barriers to passage and 2) the habitat modelling is binary, it does not assign any habitat quality values. As such, the current connectivity status is refined over time as more data on habitat and barriers are collected. 
 
-Table 2: Connectivity status assessment for Pacific salmon and steelhead in Takla WCRP geographic scope. 
+
+![Table 2: Connectivity status assessment for Pacific salmon and steelhead in Takla WCRP geographic scope. ](images/tbl2.png){#tbl2}
 
 In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds, 5,292 km of Pacific salmon and steelhead habitat are currently connected to the ocean and 198 km are disconnected from it. This means that 96% of the 5,490 km of total habitat is connected. A summary of current connectivity status broken down by species and life stage and number of structures that may be blocking each type of habitat can be found in Table 3. 
 
-Table 3. Summary of current connectivity status and number of structures that may be blocking habitat for each focal species and life stage within the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds. Connectivity estimates and structure counts are current as of May 2026. 
+
+```{r}
+#| label: tbl3
+#| tbl-cap: "Table 3. Summary of current connectivity status and number of structures that may be blocking habitat for each focal species and life stage within the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds. Connectivity estimates and structure counts are current as of May 2026."
+#| warning: false
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/tbl3.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
 
 ## Goals {-}
 Goals to improve habitat connectivity for Pacific salmon and steelhead in the Takla WCRP were established through discussions with the planning team and represent the resulting desired state of connectivity in Takla Nation territory. The goals are subject to change as more information and data are collected over the course of the plan timeline (e. g., the current connectivity status is updated based on barrier field assessments). 
+ 
+```{r}
+#| label: tbl4
+#| tbl-cap: "Table 4: Connectivity goals for Pacific salmon and steelhead in the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds."
+#| warning: false
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
 
-Table 4: Connectivity goals for Pacific salmon and steelhead in the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds. 
-
+data <- read.csv("data/tbl4.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
 
 ## Structure Count {-}
 In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds, 72 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 1 is identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 66 require further field assessment. 
@@ -32,5 +59,18 @@ In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena an
 
 ## Habitat Accumulation Summary Table
 
-Table 5: Labelled structures in the Habitat Accumulation Curve (@fig-HAC), their rank, and upstream habitat for Pacific salmon and steelhead in Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.
 
+```{r}
+#| label: tbl5
+#| tbl-cap: "Table 5: Labelled structures in the Habitat Accumulation Curve (@fig-HAC), their rank, and upstream habitat for Pacific salmon and steelhead in Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored."
+#| warning: false
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/tbl5.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```

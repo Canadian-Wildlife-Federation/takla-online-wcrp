@@ -26,5 +26,17 @@ Connectivity models in this WCRP focus on longitudinal habitat fragmentation by 
 ## Barrier Types {-}
 
 Two barrier types were identified by the planning team as impeding connectivity for Pacific salmon and steelhead within the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds: road-stream crossings and rail-stream crossings. Beaver dams and log jams act as temporary, natural barriers throughout much of the geographic scope. Although the planning team acknowledges that these barriers can and do impede passage of Pacific salmon and steelhead in some years, they are not barrier types that are actively being targeted by this plan. Some known log jams and some beaver dams that are actively managed for passage by Fisheries and Oceans Canada and other First Nations with overlapping territories with Takla Nation are listed in Table 1. This is not an exhaustive list, and other beaver dams and log jams of varying size and permanence are also abundant throughout the project geographic scope. 
+```{r}
+#| label: tbl1
+#| tbl-cap: "Table 1: Known beaver dams and log jams within Takla Nation traditional territory. Beaver dams and log jams are not actively being targeted by this plan."
+#| warning: false
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
 
-Table 1: Known beaver dams and log jams within Takla Nation traditional territory. Beaver dams and log jams are not actively being targeted by this plan. 
+data <- read.csv("data/tbl1.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
