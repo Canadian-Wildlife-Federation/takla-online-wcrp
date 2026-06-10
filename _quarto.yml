@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: ""
+  title: "Takla Watershed Connectivity Restoration Plan (WCRP)"
   author: "Canadian Wildlife Federation"
   date: last-modified
   date-format: "DD-MM-YYYY"
@@ -42,19 +42,7 @@ format:
     crossref:
       fig-title: '**Figure**'
       tbl-title: '**Table**'
-  pdf: 
-    toc: true
-    toc-depth: 2
-    documentclass: scrreprt
-    colorlinks: true
-  docx:
-    toc: true
-    number-sections: true
-    highlight-style: github
-    # reference-doc: custom-reference-doc.docx
-    tbl-colwidths: [40, 30, 30]
-    keep-md: true
-    keep-ipynb: true
+
 
 
 #jupyter: "local-venv"
