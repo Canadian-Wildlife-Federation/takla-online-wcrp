@@ -1,23 +1,74 @@
 Barrier ID,Site Name,Watershed Name,Structure Status,Average Habitat Upstream of Barriers (km),Actual Habitat Upstream of Barriers (km)
 125788,Natazutlo Cr @ Kazchek FSR (125788),Middle River,Data-deficient barrier,63.83,63.83
-197620,Triple Cr @ rail (197620),Sustut River,Priority barrier,76.03,76.03
-1200000024,Garner Cr @ unnamed (1200000024),Upper Skeena River,Unassessed structure,86.93,86.93
-1020001538,Dust Creek @ spur off Beaverdale Rd (20001538),Takla Lake,Unassessed structure,97.08,97.08
-1200000046,Trib 12 to Skeena R @ Railway (1200000046),Middle Skeena River,Unassessed structure,104.7,104.7
-1019500445,Minaret Cr @ rail (19500445),Sustut River,Unassessed structure,111.77,111.77
-1200000045,Trib 11 to Skeena R @ Railway (1200000045),Middle Skeena River,Unassessed structure,117.56,117.56
-1020000184,Teegee Cr @ unnamed (20000184),Takla Lake,Unassessed structure,121.0675,117.68
-204010,Teegee Cr @ Branch off Driftwood FSR (204010),Takla Lake,Data-deficient barrier,124.575,119.78
-204008,Teegee Cr @ Driftwood FSR (204008),Takla Lake,Data-deficient barrier,128.0825,124.85
-203996,Teegee Cr @ Fall Rd (203996),Takla Lake,Data-deficient barrier,131.59,131.59
-203995,MacDougall Cr @ 900 FSR (203995),Takla Lake,Data-deficient barrier,137.19,137.19
-1019500100,Trib to Moosevale Cr @ Thutade FSR (19500100),Sustut River,Unassessed structure,141.29,141.29
-1200000044,Trib 8 to Skeena R @ Unnamed Rd (1200000044),Upper Skeena River,Unassessed structure,145.13,145.13
-1019500369,Trib to Sustut R @ Sec I FSR (19500369),Sustut River,Unassessed structure,148.48,148.48
-1200000047,Trib 13 to Skeena R @ Railway (1200000047),Middle Skeena River,Unassessed structure,151.88,151.88
-1200000039,Trib to Sustut R @ Unnamed Rd (1200000039),Sustut River,Unassessed structure,154.11,153.33
-1019500444,Trib to Sustut R @ rail (19500444),Sustut River,Unassessed structure,156.34,156.34
-1019500220,Trib to Moosevale Cr @ Thutade FSR (19500220),Sustut River,Unassessed structure,159.15,159.15
-1200000042,Trib 3 to Skeena R @ Railway (1200000042),Upper Skeena River,Unassessed structure,161.01,159.41
-1024000043,Trib 3 to Skeena R @ unnamed (24000043),Upper Skeena River,Unassessed structure,162.87,162.87
-1019500187,Trib to Moosevale Cr @ unnamed (19500187),Sustut River,Unassessed structure,164.93,164.93
+197620,Triple Cr @ rail (197620),Sustut River,Priority barrier,12.20,12.20
+1200000024,Garner Cr @ unnamed (1200000024),Upper Skeena River,Unassessed,10.90,10.90
+1020001538,Dust Creek @ spur off Beaverdale Rd (20001538),Takla Lake,Unassessed,10.15,10.15
+1200000046,Trib 12 to Skeena R @ Railway (1200000046),Middle Skeena River,Unassessed,7.62,7.62
+1019500445,Minaret Cr @ rail (19500445),Sustut River,Unassessed,7.07,7.07
+1200000045,Trib 11 to Skeena R @ Railway (1200000045),Middle Skeena River,Unassessed,5.79,5.79
+1020000184,Teegee Cr @ unnamed (20000184),Takla Lake,Unassessed,3.51,0.12
+204010,Teegee Cr @ Branch off Driftwood FSR (204010),Takla Lake,Data-deficient barrier,3.51,2.10
+204008,Teegee Cr @ Driftwood FSR (204008),Takla Lake,Data-deficient barrier,3.51,5.07
+203996,Teegee Cr @ Fall Rd (203996),Takla Lake,Data-deficient barrier,3.51,6.74
+203995,MacDougall Cr @ 900 FSR (203995),Takla Lake,Data-deficient barrier,5.60,5.60
+1019500100,Trib to Moosevale Cr @ Thutade FSR (19500100),Sustut River,Unassessed,4.10,4.10
+1200000044,Trib 8 to Skeena R @ Unnamed Rd (1200000044),Upper Skeena River,Unassessed,3.84,3.84
+1019500369,Trib to Sustut R @ Sec I FSR (19500369),Sustut River,Unassessed,3.35,3.35
+1200000047,Trib 13 to Skeena R @ Railway (1200000047),Middle Skeena River,Unassessed,3.40,3.40
+1200000039,Trib to Sustut R @ Unnamed Rd (1200000039),Sustut River,Unassessed,2.23,1.45
+1019500444,Trib to Sustut R @ rail (19500444),Sustut River,Unassessed,2.23,3.01
+1019500220,Trib to Moosevale Cr @ Thutade FSR (19500220),Sustut River,Unassessed,2.81,2.81
+1200000042,Trib 3 to Skeena R @ Railway (1200000042),Upper Skeena River,Unassessed,1.86,0.26
+1024000043,Trib 3 to Skeena R @ unnamed (24000043),Upper Skeena River,Unassessed,1.86,3.46
+1019500187,Trib to Moosevale Cr @ unnamed (19500187),Sustut River,Unassessed,2.06,2.06
+1019500410,Trib to Sustut R @ SUS016.7000 FSR (19500410),Sustut River,Unassessed,2.79,2.79
+1019500053,Trib to February Cr @ Section C FSR (19500053),Sustut River,Unassessed,1.47,1.02
+1019500275,Trib to Sustut R @ Section L FSR (19500275),Sustut River,Unassessed,1.47,1.91
+1019500219,Trib to Moosevale Cr @ Thutade FSR (19500219),Sustut River,Unassessed,1.81,1.81
+1019500117,Trib to Moosevale Cr @ unnamed (19500117),Sustut River,Unassessed,1.78,1.78
+1014200031,Trib 10 to Skeena R @ unnamed (14200031),Middle Skeena River,Unassessed,1.31,0.21
+1200000050,Trib 10 to Skeena R @ Railway (1200000050),Middle Skeena River,Unassessed,1.31,2.41
+1019500217,Trib to Moosevale Cr @ Thutade FSR (19500217),Sustut River,Unassessed,1.76,1.76
+1019500427,Trib to Sustut R @ rail (19500427),Sustut River,Unassessed,1.13,0.62
+1019500341,Trib to Sustut R @ Sustut FSR (19500341),Sustut River,Unassessed,1.13,1.63
+1200000038,Mohammed Cr @ Railway (1200000038),Middle Skeena River,Unassessed,1.74,1.74
+1019500411,Trib to Sustut R @ SUS016.7000 FSR (19500411),Sustut River,Unassessed,1.64,1.64
+1200000041,Trib 2 to Skeena R @ Railway (1200000041),Upper Skeena River,Unassessed,0.93,0.13
+1024000044,Trib 2 to Skeena R @ unnamed (24000044),Upper Skeena River,Unassessed,0.93,1.72
+1019500182,Trib to Moosevale @ unnamed (19500182),Sustut River,Unassessed,1.17,1.17
+1020001281,Tliti Cr @ Railway (20001281),Takla Lake,Unassessed,1.12,1.12
+1019500442,Trib to Sustut R @ Sustut FSR (19500442),Sustut River,Unassessed,1.03,1.03
+1200000043,Trib 5 to Skeena R @ Unnamed Rd (1200000043),Upper Skeena River,Unassessed,0.55,0.41
+1024000038,Trib 5 to Skeena R @ unnamed (24000038),Upper Skeena River,Unassessed,0.55,0.60
+1024000144,Trib 5 to Skeena R @ unnamed (24000144),Upper Skeena River,Unassessed,0.55,0.63
+1019500050,Trib to Sustut R @ Sec M (19500050),Sustut River,Unassessed,0.97,0.97
+1024000041,Trib 7 to Skeena R @ Unnamed (24000041),Upper Skeena River,Unassessed,0.92,0.92
+1019500120,Trib to Moosevale Cr @ unnamed (19500120),Sustut River,Unassessed,1.39,1.39
+1019500440,Trib to Sustut R @ rail (19500440),Sustut River,Unassessed,0.77,0.77
+1019500239,Trib to Sustut R @ SUS016.7000 FSR (19500239),Sustut River,Unassessed,0.57,0.57
+1019500105,Trib to Johanson Cr @ Thutade FSR (19500105),Sustut River,Unassessed,0.50,0.50
+1200000027,Trib to Skeena R @ unnamed (1200000027),Upper Skeena River,Unassessed,0.45,0.09
+1024000062,Trib to Skeena R @ unnamed (24000062),Upper Skeena River,Unassessed,0.45,0.81
+1019500456,Trib to Bear Lk @ rail (19500456),Sustut River,Unassessed,0.42,0.25
+1019500030,Trib to Bear Lk @ unnamed (19500030),Sustut River,Unassessed,0.42,0.59
+1019500200,Trib to Johanson Cr @ unnamed (19500200),Sustut River,Unassessed,0.48,0.48
+1200000051,Trib 9 to Skeena R @ Railway (1200000051),Middle Skeena River,Unassessed,0.43,0.43
+1019500123,Trib to Asitka L @ unnamed (19500123),Sustut River,Unassessed,0.42,0.42
+1019500424,Trib to Sustut R @ rail (19500424),Sustut River,Unassessed,0.37,0.37
+1024000025,Trib 6 to Skeena R @ unnamed (24000025),Upper Skeena River,Unassessed,0.23,0.20
+1200000023,Trib 6 to Skeena R @ unnamed (1200000023),Upper Skeena River,Unassessed,0.23,0.26
+1020000927,Trib to Takla Lake at unnamed FSR (20000927),Takla Lake,Unassessed,0.33,0.33
+1019500428,Trib to Bear R @ rail (19500428),Sustut River,Unassessed,0.24,0.24
+1019500069,Trib to Moosevale Cr @ Thutade FSR (19500069),Sustut River,Unassessed,0.23,0.23
+1200000030,Trib 4 to Skeena R @ Railway (1200000030),Upper Skeena River,Unassessed,0.16,0.00
+1024000033,Trib 4 to Skeena R @ unnamed (1024000033),Upper Skeena River,Unassessed,0.16,0.31
+1024000018,Trib to Skeena R @ unnamed (24000018),Upper Skeena River,Unassessed,0.22,0.22
+1019500140,Goldway Cr @ unnamed (19500140),Sustut River,Unassessed,0.14,0.14
+1019500098,Trib to Moosevale Cr @ Thutade FSR (19500098),Sustut River,Unassessed,0.13,0.13
+1200000040,Trib 1 to Skeena R @ Railway (1200000040),Upper Skeena River,Unassessed,0.06,0.06
+1019500048,Trib to Sustut R @ unnamed (19500048),Sustut River,Unassessed,0.29,0.29
+1019500076,Trib to Johanson Cr @ Thutade FSR (19500076),Sustut River,Unassessed,0.05,0.05
+1019500080,Trib to Moosevale Cr @ unnamed (19500080),Sustut River,Unassessed,0.04,0.04
+1024000123,Trib to Skeena R @ unnamed (24000123),Upper Skeena River,Unassessed,0.03,0.03
+1024000015,Trib to Skeena R @ unnamed (24000015),Upper Skeena River,Unassessed,0.02,0.02
+1024000019,Trib to Skeena R @ unnamed (24000019),Upper Skeena River,Unassessed,0.01,0.01
