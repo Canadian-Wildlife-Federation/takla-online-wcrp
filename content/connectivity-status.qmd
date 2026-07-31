@@ -46,7 +46,7 @@ ft
 ```
 
 ## Structure Count {-}
-In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds, 72 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 1 is identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 66 require further field assessment. 
+In the Driftwood River, Takla Lake, Middle River, Middle Skeena, Upper Skeena and Sustut River watersheds, 73 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 1 is identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 72 require further field assessment. 
 
 
 ## Maps {-}
